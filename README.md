@@ -10,5 +10,5 @@ I work at <a href="https://gearplug.io/en/">GearPlug</a>
 <br>
 
 
-Visit my website: http://orlandohernandez.dev/about
+Visit my website: https://orlandohernandez.dev/about
 
