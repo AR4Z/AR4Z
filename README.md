@@ -9,6 +9,9 @@ I'm studying at National University of Colombia
 I work at <a href="https://gearplug.io/en/">GearPlug</a>
 <br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 Visit my website: https://orlandohernandez.dev/about
 
