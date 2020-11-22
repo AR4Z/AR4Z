@@ -19,15 +19,13 @@ I'm studying at National University of Colombia
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Python                   24 mins             ███████████████░░░░░░░░░░   59.62% 
-Other                    14 mins             ████████░░░░░░░░░░░░░░░░░   34.26% 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.13%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
