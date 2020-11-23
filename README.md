@@ -6,7 +6,8 @@
 Here are some ideas to get you started:-->
 I'm studying at National University of Colombia
 <br>
-
+I work at <a href="https://www.aflore.co/">Polymath Ventures / Aflore</a>
+<br>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
