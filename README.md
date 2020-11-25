@@ -12,7 +12,7 @@ I work at <a href="https://www.aflore.co/">Polymath Ventures / Aflore</a>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,13 +20,15 @@ I work at <a href="https://www.aflore.co/">Polymath Ventures / Aflore</a>
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   12 mins             ████████████████████████░   96.93% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    13 mins             █████████████████████████   100.0%
 
 ```
 
