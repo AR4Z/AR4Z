@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 I'm studying at National University of Colombia
 <br>
-I work at <a href="https://www.aflore.co/">Polymath Ventures / Aflore</a>
+I work at <a href="https://omnilatam.com/co/">OmniLatam</a>
 <br>
 
 <!--START_SECTION:waka-->
