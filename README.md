@@ -20,20 +20,18 @@ I work at <a href="https://omnilatam.com/co/">OmniLatam</a>
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-Python                   2 hrs 1 min         ████████████████████████░   98.25% 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.7% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 3 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 07/07/2021
+ Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
 
 
